@@ -26,6 +26,7 @@ The results suggest that combining differential privacy with geospatially-aware 
 
 - `mairesearchfinal.ipynb`: main Kaggle notebook for the dissertation experiments
 - `figures/`: exported plots and interactive visual output from the notebook
+- `REFERENCES.md`: GitHub-friendly bibliography with clickable links
 - `README.md`: project overview and setup guide
 
 ## Tools and Technologies

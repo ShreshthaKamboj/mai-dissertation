@@ -1,0 +1,805 @@
+@misc{gdpr2016,
+  author       = {{European Union}},
+  title        = {General Data Protection Regulation},
+  year         = {2016},
+  howpublished = {\url{https://gdpr-info.eu}},
+  note         = {Official Journal of the European Union, L119, 49}
+}
+
+@misc{hipaa1996,
+  author       = {{United States Congress}},
+  title        = {Health Insurance Portability and Accountability Act of 1996},
+  year         = {1996},
+  howpublished = {\url{https://www.govinfo.gov/content/pkg/PLAW-104publ191/pdf/PLAW-104publ191.pdf}},
+  note         = {Public Law 104-191}
+}
+
+@book{duncan2011statistical,
+  author    = {Duncan, George and Elliot, Mark and Salazar-Gonz{\'a}lez, Juan Jos{\'e}},
+  title     = {Statistical Confidentiality: Principles and Practice},
+  year      = {2011},
+  publisher = {Springer},
+  isbn      = {978-1-4419-7801-1},
+  doi       = {10.1007/978-1-4419-7802-8}
+}
+
+@article{thomson2005anonymization,
+  author  = {Thomson, Denise and Bzdel, Lana and Golden-Biddle, Karen and Reay, Trish and Estabrooks, Carole},
+  title   = {Central Questions of Anonymization: A Case Study of Secondary Use of Qualitative Data},
+  journal = {Forum Qualitative Sozialforschung},
+  volume  = {6},
+  year    = {2005}
+}
+
+@article{carney2000medicolegal,
+  author  = {Carney, Patricia A. and Geller, Berta M. and Moffett, Howard and Ganger, Molly and Sewell, Matson and Barlow, William E. and Stalnaker, Nancy and Taplin, Stephen H. and Sisk, Cynthia and Ernster, Virginia L. and Wilkie, Heather A. and Yankaskas, Bonnie and Poplack, Steven P. and Urban, Nicole and West, Michele M. and Rosenberg, Robert D. and Michael, Sharon and Mercurio, Thomas D. and Ballard-Barbash, Rachel},
+  title   = {Current Medicolegal and Confidentiality Issues in Large, Multicenter Research Programs},
+  journal = {American Journal of Epidemiology},
+  year    = {2000},
+  volume  = {152},
+  number  = {4},
+  pages   = {371--378},
+  doi     = {10.1093/aje/152.4.371}
+}
+
+@inproceedings{truta2003privacy,
+  author    = {Truta, Traian Marius and Fotouhi, Farshad and Barth-Jones, Daniel},
+  title     = {Privacy and Confidentiality Management for the Microaggregation Disclosure Control Method: Disclosure Risk and Information Loss Measures},
+  booktitle = {Proceedings of the 2003 ACM Workshop on Privacy in the Electronic Society},
+  series    = {WPES '03},
+  year      = {2003},
+  pages     = {21--30},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  location  = {Washington, DC},
+  isbn      = {1581137761},
+  url       = {https://doi.org/10.1145/1005140.1005144},
+  doi       = {10.1145/1005140.1005144}
+}
+
+@article{fellegi1972statistical,
+  author  = {Fellegi, I. P.},
+  title   = {On the Question of Statistical Confidentiality},
+  journal = {Journal of the American Statistical Association},
+  year    = {1972},
+  volume  = {67},
+  number  = {337},
+  pages   = {7--18},
+  doi     = {10.1080/01621459.1972.10481199}
+}
+
+@article{liu2023covid,
+  author  = {Liu, F. and Wang, D. and Yan, T.},
+  title   = {Some Examples of Privacy-Preserving Sharing of COVID-19 Pandemic Data with Statistical Utility Evaluation},
+  journal = {BMC Medical Research Methodology},
+  year    = {2023},
+  month   = {May},
+  volume  = {23},
+  number  = {1},
+  pages   = {120},
+  doi     = {10.1186/s12874-023-01927-3},
+  pmid    = {37208606},
+  pmcid   = {PMC10198035}
+}
+
+@article{dyda2021differential,
+  author  = {Dyda, A. and Purcell, M. and Curtis, S. and Field, E. and Pillai, P. and Ricardo, K. and Weng, H. and Moore, J. C. and Hewett, M. and Williams, G. and Lau, C. L.},
+  title   = {Differential Privacy for Public Health Data: An Innovative Tool to Optimize Information Sharing While Protecting Data Confidentiality},
+  journal = {Patterns},
+  year    = {2021},
+  month   = {December},
+  volume  = {2},
+  number  = {12},
+  pages   = {100366},
+  doi     = {10.1016/j.patter.2021.100366},
+  pmid    = {34909703},
+  pmcid   = {PMC8662814}
+}
+
+@article{healy2021falsepositive,
+  author  = {Healy, B. and Khan, A. and Metezai, H. and Blyth, I. and Asad, H.},
+  title   = {The Impact of False Positive COVID-19 Results in an Area of Low Prevalence},
+  journal = {Clinical Medicine},
+  year    = {2021},
+  month   = {January},
+  volume  = {21},
+  number  = {1},
+  pages   = {e54--e56},
+  doi     = {10.7861/clinmed.2020-0839},
+  pmid    = {33243836},
+  pmcid   = {PMC7850182}
+}
+
+@article{layfield2021sarscov2,
+  author  = {Layfield, L. J. and Camp, S. and Bowers, K. and Miller, D. C.},
+  title   = {SARS-CoV-2 Detection by Reverse Transcriptase Polymerase Chain Reaction Testing: Analysis of False Positive Results and Recommendations for Quality Control Measures},
+  journal = {Pathology Research and Practice},
+  year    = {2021},
+  month   = {September},
+  volume  = {225},
+  pages   = {153579},
+  doi     = {10.1016/j.prp.2021.153579},
+  pmid    = {34385110},
+  pmcid   = {PMC8336987}
+}
+
+@incollection{dwork2008differential,
+  author    = {Dwork, Cynthia},
+  title     = {Differential Privacy: A Survey of Results},
+  booktitle = {Theory and Applications of Models of Computation},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {4978},
+  year      = {2008},
+  pages     = {1--19},
+  publisher = {Springer},
+  address   = {Berlin, Heidelberg},
+  doi       = {10.1007/978-3-540-79228-4_1}
+}
+
+@article{bampoulidis2019abstract,
+  title   = {An abstract view on the de-anonymization process},
+  author  = {Bampoulidis, Alexandros and Lupu, Mihai},
+  journal = {arXiv preprint arXiv:1902.09897},
+  year    = {2019}
+}
+
+@article{sweeney2017reidentification,
+  author  = {Sweeney, L. and Yoo, J. S. and Perovich, L. and Boronow, K. E. and Brown, P. and Brody, J. G.},
+  title   = {Re-identification Risks in HIPAA Safe Harbor Data: A Study of Data from One Environmental Health Study},
+  journal = {Technology Science},
+  year    = {2017},
+  pages   = {2017082801},
+  pmid    = {30687852},
+  pmcid   = {PMC6344041}
+}
+
+@online{dp_medium,
+  author = {Elise Deux},
+  title  = {What is Differential Privacy? Definition, Mechanisms, and Examples},
+  year   = {2020},
+  url    = {https://elise-deux.medium.com/what-is-differential-privacy-definition-mechanisms-and-examples-7855dbc318d1},
+  note   = {Accessed: 2026-04-03}
+}
+
+@article{seeman2024privacy,
+  author    = {Seeman, Jeremy and Susser, Daniel},
+  title     = {Between Privacy and Utility: On Differential Privacy in Theory and Practice},
+  journal   = {ACM Journal on Responsible Computing},
+  year      = {2024},
+  volume    = {1},
+  number    = {1},
+  articleno = {3},
+  pages     = {1--18},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  doi       = {10.1145/3626494},
+  url       = {https://doi.org/10.1145/3626494}
+}
+
+@incollection{dwork2006differential,
+  author    = {Dwork, Cynthia},
+  title     = {Differential Privacy},
+  booktitle = {Automata, Languages and Programming},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {4052},
+  year      = {2006},
+  pages     = {1--12},
+  publisher = {Springer},
+  address   = {Berlin, Heidelberg},
+  doi       = {10.1007/11787006_1}
+}
+
+@article{dwork2014laplace,
+  author  = {Dwork, Cynthia and Roth, Aaron},
+  title   = {The Algorithmic Foundations of Differential Privacy},
+  journal = {Foundations and Trends in Theoretical Computer Science},
+  year    = {2014},
+  volume  = {9},
+  number  = {3--4},
+  pages   = {211--407},
+  doi     = {10.1561/0400000042},
+  note    = {Chapter 3.3: The Laplace Mechanism}
+}
+
+@online{laplaceImageRealStats,
+  author       = {Charles Zaiontz},
+  title        = {Laplace Distribution},
+  year         = {n.d.},
+  url          = {https://real-statistics.com/other-key-distributions/laplace-distribution/},
+  note         = {Accessed: 2026-04-03}
+}
+
+@online{astroml2026gaussian,
+  author       = {VanderPlas, Jake and Boysdon, Contributors to AstroML},
+  title        = {Example of a Gaussian distribution},
+  year         = {2012},
+  url          = {https://www.astroml.org/book_figures/chapter3/fig_gaussian_distribution.html},
+  note         = {Accessed: 2026-04-03}
+}
+
+@article{leny2013filtering,
+  author  = {Le Ny, J{\'e}r{\'e}mie and Pappas, George J.},
+  title   = {Differentially Private Filtering},
+  journal = {IEEE Transactions on Automatic Control},
+  year    = {2013},
+  volume  = {59},
+  number  = {2},
+  pages   = {341--354}
+}
+
+@misc{apple2017privacy,
+  author       = {{Apple Differential Privacy Team}},
+  title        = {Learning with Privacy at Scale},
+  year         = {2017},
+  howpublished = {\url{https://machinelearning.apple.com/research/learning-with-privacy-at-scale}},
+  note         = {Apple Machine Learning Research}
+}
+
+@misc{erlingsson2014rappor,
+  author       = {Erlingsson, {\'U}lfar},
+  title        = {Learning Statistics with Privacy, Aided by the Flip of a Coin},
+  year         = {2014},
+  month        = {October},
+  howpublished = {\url{https://research.google/blog/learning-statistics-with-privacy-aided-by-the-flip-of-a-coin/}},
+  note         = {Google Research Blog}
+}
+
+@article{mohammed2013privacy,
+  author  = {Mohammed, N. and Jiang, X. and Chen, R. and Fung, B. C. M. and Ohno-Machado, L.},
+  title   = {Privacy-Preserving Heterogeneous Health Data Sharing},
+  journal = {Journal of the American Medical Informatics Association},
+  year    = {2013},
+  month   = {May},
+  volume  = {20},
+  number  = {3},
+  pages   = {462--469},
+  doi     = {10.1136/amiajnl-2012-001027},
+  pmid    = {23242630},
+  pmcid   = {PMC3628047}
+}
+
+@incollection{cheon2022homomorphic,
+  author    = {Cheon, Jung Hee and Costache, Anamaria and Moreno, Radames Cruz and Dai, Wei and Gama, Nicolas and Georgieva, Mariya and Halevi, Shai and Kim, Miran and Kim, Sunwoong and Laine, Kim and Polyakov, Yuriy and Song, Yongsoo},
+  title     = {Introduction to Homomorphic Encryption and Schemes},
+  booktitle = {Protecting Privacy through Homomorphic Encryption},
+  publisher = {Springer International Publishing},
+  year      = {2022},
+  pages     = {3--28},
+  doi       = {10.1007/978-3-030-77287-1_1},
+  isbn      = {9783030772864}
+}
+
+@article{marcolla2022survey,
+  author  = {Marcolla, Chiara and Sucasas, Victor and Manzano, Marc and Bassoli, Riccardo and Fitzek, Frank H. P. and Aaraj, Najwa},
+  title   = {Survey on Fully Homomorphic Encryption, Theory, and Applications},
+  journal = {IEEE Proceedings},
+  year    = {2022},
+  month   = {January},
+  volume  = {110},
+  number  = {10},
+  pages   = {1572--1609},
+  doi     = {10.1109/JPROC.2022.3205665}
+}
+
+@article{geva2023collaborative,
+  author  = {Geva, R. and Gusev, A. and Polyakov, Y. and Liram, L. and Rosolio, O. and Alexandru, A. and Genise, N. and Blatt, M. and Duchin, Z. and Waissengrin, B. and Mirelman, D. and Bukstein, F. and Blumenthal, D. T. and Wolf, I. and Pelles-Avraham, S. and Schaffer, T. and Lavi, L. A. and Micciancio, D. and Vaikuntanathan, V. and Badawi, A. A. and Goldwasser, S.},
+  title   = {Collaborative Privacy-Preserving Analysis of Oncological Data Using Multiparty Homomorphic Encryption},
+  journal = {Proceedings of the National Academy of Sciences of the United States of America},
+  year    = {2023},
+  volume  = {120},
+  number  = {33},
+  pages   = {e2304415120},
+  doi     = {10.1073/pnas.2304415120}
+}
+
+@article{ezz2025ethical,
+  author  = {Ezz, M. and Alaerjan, A. S. and Mostafa, A. M.},
+  title   = {Ethical AI in Healthcare: Integrating Zero-Knowledge Proofs and Smart Contracts for Transparent Data Governance},
+  journal = {Bioengineering},
+  year    = {2025},
+  volume  = {12},
+  pages   = {1236},
+  doi     = {10.3390/bioengineering12111236}
+}
+
+@article{soltan2024federated,
+  author  = {Soltan, A. and Thakur, A. and Yang, J. and et al.},
+  title   = {A Scalable Federated Learning Solution for Secondary Care Using Low-Cost Microcomputing: Privacy-Preserving Development and Evaluation of a COVID-19 Screening Test in UK Hospitals},
+  journal = {The Lancet Digital Health},
+  year    = {2024},
+  volume  = {6},
+  pages   = {e93--e104}
+}
+
+@article{zhu2024synthetic,
+  author  = {Zhu, K. and Yin, L. and Liu, K. and Liu, J. and Shi, Y. and Li, X. and et al.},
+  title   = {Generating Synthetic Population for Simulating the Spatiotemporal Dynamics of Epidemics},
+  journal = {PLoS Computational Biology},
+  year    = {2024},
+  volume  = {20},
+  number  = {2},
+  pages   = {e1011810},
+  doi     = {10.1371/journal.pcbi.1011810}
+}
+
+@article{jiang2020supervised,
+  author  = {Jiang, T. and Gradus, J. L. and Rosellini, A. J.},
+  title   = {Supervised Machine Learning: A Brief Primer},
+  journal = {Behaviour Therapy},
+  year    = {2020},
+  month   = {September},
+  volume  = {51},
+  number  = {5},
+  pages   = {675--687},
+  doi     = {10.1016/j.beth.2020.05.002},
+  pmid    = {32800297},
+  pmcid   = {PMC7431677}
+}
+
+@article{ono2022supervised,
+  author  = {Ono, S. and Goto, T.},
+  title   = {Introduction to Supervised Machine Learning in Clinical Epidemiology},
+  journal = {Annals of Clinical Epidemiology},
+  year    = {2022},
+  month   = {July},
+  volume  = {4},
+  number  = {3},
+  pages   = {63--71},
+  doi     = {10.37737/ace.22009},
+  pmid    = {38504945},
+  pmcid   = {PMC10760492}
+}
+
+@article{christodoulou2019ml,
+  author  = {Christodoulou, E. and Ma, J. and Collins, G. S. and Steyerberg, E. W. and Verbakel, J. Y. and Van Calster, B.},
+  title   = {A Systematic Review Shows No Performance Benefit of Machine Learning over Logistic Regression for Clinical Prediction Models},
+  journal = {Journal of Clinical Epidemiology},
+  year    = {2019},
+  volume  = {110},
+  pages   = {12--22}
+}
+
+@article{xue2019overfitting,
+  author  = {Ying, Xue},
+  title   = {An Overview of Overfitting and Its Solutions},
+  journal = {Journal of Physics: Conference Series},
+  year    = {2019},
+  volume  = {1168},
+  number  = {2},
+  pages   = {022022},
+  doi     = {10.1088/1742-6596/1168/2/022022}
+}
+
+@article{boulesteix2012randomforest,
+  author  = {Boulesteix, Anne-Laure and Janitza, Silke and Kruppa, Jochen and K{\"o}nig, Inke R.},
+  title   = {Overview of Random Forest Methodology and Practical Guidance with Emphasis on Computational Biology and Bioinformatics},
+  journal = {Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery},
+  year    = {2012},
+  volume  = {2},
+  pages   = {493--507}
+}
+
+@techreport{gunn1998svm,
+  author    = {Gunn, S. R.},
+  title     = {Support Vector Machines for Classification and Regression},
+  institution = {ISIS, University of Southampton},
+  type      = {Technical Report},
+  number    = {14},
+  year      = {1998}
+}
+
+@article{noble2006svm,
+  author  = {Noble, W. S.},
+  title   = {What is a Support Vector Machine?},
+  journal = {Nature Biotechnology},
+  year    = {2006},
+  volume  = {24},
+  pages   = {1565--1567}
+}
+
+@article{basheer2000ann,
+  author  = {Basheer, I. A. and Hajmeer, M.},
+  title   = {Artificial Neural Networks: Fundamentals, Computing, Design, and Application},
+  journal = {Journal of Microbiological Methods},
+  year    = {2000},
+  month   = {December},
+  volume  = {43},
+  number  = {1},
+  pages   = {3--31},
+  doi     = {10.1016/s0167-7012(00)00201-3},
+  pmid    = {11084225}
+}
+
+@article{islam2019overview,
+  author  = {Islam, M.},
+  title   = {An Overview of Neural Network},
+  journal = {American Journal of Neural Networks and Applications},
+  year    = {2019},
+  publisher = {Science Publishing Group},
+  doi     = {10.11648/J.AJNNA.20190501.12}
+}
+
+@article{gao2020covid,
+  author  = {Gao, Y. and Cai, G. Y. and Fang, W. and Li, H. Y. and Wang, S. Y. and Chen, L. and Yu, Y. and Liu, D. and Xu, S. and Cui, P. F. and Zeng, S. Q. and Feng, X. X. and Yu, R. D. and Wang, Y. and Yuan, Y. and Jiao, X. F. and Chi, J. H. and Liu, J. H. and Li, R. Y. and Zheng, X. and Song, C. Y. and Jin, N. and Gong, W. J. and Liu, X. Y. and Huang, L. and Tian, X. and Li, L. and Xing, H. and Ma, D. and Li, C. R. and Ye, F. and Gao, Q. L.},
+  title   = {Machine Learning Based Early Warning System Enables Accurate Mortality Risk Prediction for COVID-19},
+  journal = {Nature Communications},
+  year    = {2020},
+  month   = {October},
+  volume  = {11},
+  number  = {1},
+  pages   = {5033},
+  doi     = {10.1038/s41467-020-18684-2},
+  pmid    = {33024092},
+  pmcid   = {PMC7538910}
+}
+
+@article{rashidi2023statistical,
+  author  = {Rashidi, H. H. and Albahra, S. and Robertson, S. and Tran, N. K. and Hu, B.},
+  title   = {Common Statistical Concepts in the Supervised Machine Learning Arena},
+  journal = {Frontiers in Oncology},
+  year    = {2023},
+  volume  = {13},
+  pages   = {1130229},
+  doi     = {10.3389/fonc.2023.1130229}
+}
+
+@article{field2021crisper,
+  title = {Development of the COVID-19 Real-Time Information System for Preparedness and Epidemic Response (CRISPER), Australia},
+  author = {Field, Emma and Dyda, Amalie and Hewett, Michael and Weng, Haotian and Shi, Jingjing and Curtis, Stephanie and Law, Charlee and McHugh, Lisa and Sheel, Meru and Moore, Jess and Furuya-Kanamori, Luis and Pillai, Priyanka and Konings, Paul and Purcell, Michael and Stocks, Nigel and Williams, Graham and Lau, Colleen L.},
+  journal = {Frontiers in Public Health},
+  volume = {9},
+  pages = {753493},
+  year = {2021},
+  doi = {10.3389/fpubh.2021.753493}
+}
+
+@article{longadge2013imbalance,
+  author  = {Longadge, Rushi and Dongre, Snehalata},
+  title   = {Class Imbalance Problem in Data Mining Review},
+  journal = {arXiv preprint arXiv:1305.1707},
+  year    = {2013},
+  doi     = {10.48550/arXiv.1305.1707}
+}
+
+@book{prati2018imbalanced,
+  author    = {Prati, Ronaldo C.},
+  title     = {Learning from Imbalanced Data Sets},
+  publisher = {Springer},
+  year      = {2018},
+  doi       = {10.1007/978-3-319-98074-4}
+}
+
+@article{pes2021costsensitive,
+  author  = {Pes, B. and Lai, G.},
+  title   = {Cost-Sensitive Learning Strategies for High-Dimensional and Imbalanced Data: A Comparative Study},
+  journal = {PeerJ Computer Science},
+  year    = {2021},
+  volume  = {7},
+  pages   = {e832},
+  doi     = {10.7717/peerj-cs.832},
+  pmid    = {35036539},
+  pmcid   = {PMC8725666}
+}
+
+@article{goovaerts2006geostatistical,
+  author  = {Goovaerts, P.},
+  title   = {Geostatistical Analysis of Disease Data: Accounting for Spatial Support and Population Density in the Isopleth Mapping of Cancer Mortality Risk Using Area-to-Point Poisson Kriging},
+  journal = {International Journal of Health Geographics},
+  year    = {2006},
+  volume  = {5},
+  pages   = {52},
+  doi     = {10.1186/1476-072X-5-52},
+  pmid    = {17137504},
+  pmcid   = {PMC1697809}
+}
+
+@article{kim2025exposure,
+  author  = {Kim, H. and Lim, C. C.},
+  title   = {Toward Equitable Environmental Exposure Modeling through Convergence of Data, Open, and Citizen Sciences: An Example of Air Pollution Exposure Modeling Amidst Increasing Wildfire Smoke},
+  journal = {Environmental Research},
+  year    = {2025},
+  month   = {December},
+  volume  = {286},
+  pages   = {122881},
+  doi     = {10.1016/j.envres.2025.122881},
+  pmid    = {40967497},
+  pmcid   = {PMC12599859}
+}
+
+@article{vanduynhoven2025spatial,
+  author  = {van Duynhoven, A. and Dragićević, S.},
+  title   = {Spatial Sample Weighted Machine Learning for Multitemporal Land Cover Change Modeling with Imbalanced Datasets},
+  journal = {Big Earth Data},
+  year    = {2025},
+  volume  = {9},
+  number  = {4},
+  pages   = {828--859},
+  doi     = {10.1080/20964471.2025.2518763}
+}
+
+@article{lakhdari2025fractional,
+  author  = {Lakhdari, Abdelghani and Benchettah, Djaber Chemseddine and Meftah, Badreddine},
+  title   = {Fractional Multiplicative Newton-Type Inequalities for Multiplicative s-Convex Positive Functions with Application},
+  journal = {Journal of Computational and Applied Mathematics},
+  year    = {2025},
+  volume  = {465},
+  pages   = {116600},
+  doi     = {10.1016/j.cam.2025.116600},
+  url     = {https://www.sciencedirect.com/science/article/pii/S0377042725001153}
+}
+
+@article{diggle2010spatialrisk,
+  author  = {Diggle, P. J. and Guan, Y. and Hart, A. C. and Paize, F. and Stanton, M.},
+  title   = {Estimating Individual-Level Risk in Spatial Epidemiology Using Spatially Aggregated Information on the Population at Risk},
+  journal = {Journal of the American Statistical Association},
+  year    = {2010},
+  volume  = {105},
+  number  = {492},
+  pages   = {1394--1402},
+  doi     = {10.1198/jasa.2010.ap09323},
+  pmid    = {22798701},
+  pmcid   = {PMC3395722}
+}
+
+@misc{who2020sitrep1,
+  author       = {{World Health Organization}},
+  title        = {Novel Coronavirus (2019-nCoV): Situation Report --- 1},
+  year         = {2020},
+  month        = {January},
+  day          = {21},
+  howpublished = {\url{https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200121-sitrep-1-2019-ncov.pdf}},
+  note         = {Situation Report - 1}
+}
+
+@article{vandelli2024geography,
+  author  = {Vandelli, Vittoria and Palandri, Lucia and Coratza, Paola and Rizzi, Cristiana and Ghinoi, Alessandro and Righi, Elena and Soldati, Mauro},
+  title   = {Conditioning Factors in the Spreading of COVID-19 --- Does Geography Matter?},
+  journal = {Heliyon},
+  year    = {2024},
+  volume  = {10},
+  number  = {3},
+  pages   = {e25810},
+  doi     = {10.1016/j.heliyon.2024.e25810},
+  url     = {https://www.sciencedirect.com/science/article/pii/S2405844024018413}
+}
+
+@article{wang2021heterogeneous,
+  author  = {Wang, H. and Ghosh, A. and Ding, J. and Sarkar, R. and Gao, J.},
+  title   = {Heterogeneous Interventions Reduce the Spread of COVID-19 in Simulations on Real Mobility Data},
+  journal = {Scientific Reports},
+  year    = {2021},
+  volume  = {11},
+  number  = {1},
+  pages   = {7809},
+  doi     = {10.1038/s41598-021-87034-z},
+  pmid    = {33833298},
+  pmcid   = {PMC8034422}
+}
+
+@article{koubaa2020covid,
+  author  = {Koubaa, Anis},
+  title   = {Understanding the COVID-19 Outbreak: A Comparative Data Analytics and Study},
+  journal = {arXiv preprint arXiv:2003.14150},
+  year    = {2020},
+  url     = {https://arxiv.org/abs/2003.14150}
+}
+
+@article{colizza2007predictability,
+  author  = {Colizza, V. and Barrat, A. and Barth{\'e}lemy, M. and Vespignani, A.},
+  title   = {Predictability and Epidemic Pathways in Global Outbreaks of Infectious Diseases: The SARS Case Study},
+  journal = {BMC Medicine},
+  year    = {2007},
+  volume  = {5},
+  pages   = {34},
+  doi     = {10.1186/1741-7015-5-34},
+  pmid    = {18031574},
+  pmcid   = {PMC2213648}
+}
+
+@article{dietterich2000ensembles,
+  author  = {Dietterich, Thomas G.},
+  title   = {An Experimental Comparison of Three Methods for Constructing Ensembles of Decision Trees: Bagging, Boosting, and Randomization},
+  journal = {Machine Learning},
+  year    = {2000},
+  volume  = {40},
+  pages   = {139--157},
+  url     = {https://api.semanticscholar.org/CorpusID:12394453}
+}
+
+@article{friedman2002stochastic,
+  author  = {Friedman, Jerome H.},
+  title   = {Stochastic Gradient Boosting},
+  journal = {Computational Statistics \& Data Analysis},
+  year    = {2002},
+  volume  = {38},
+  number  = {4},
+  pages   = {367--378},
+  doi     = {10.1016/S0167-9473(01)00065-2},
+  url     = {https://www.sciencedirect.com/science/article/pii/S0167947301000652}
+}
+
+@inproceedings{chen2016xgboost,
+  author    = {Chen, Tianqi and Guestrin, Carlos},
+  title     = {XGBoost: A Scalable Tree Boosting System},
+  booktitle = {Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+  series    = {KDD '16},
+  year      = {2016},
+  month     = {August},
+  pages     = {785--794},
+  publisher = {ACM},
+  doi       = {10.1145/2939672.2939785},
+  url       = {http://dx.doi.org/10.1145/2939672.2939785}
+}
+
+@article{florek2023benchmarking,
+  author  = {Florek, Piotr and Zagdański, Adam},
+  title   = {Benchmarking State-of-the-Art Gradient Boosting Algorithms for Classification},
+  journal = {arXiv preprint arXiv:2305.17094},
+  year    = {2023},
+  url     = {https://arxiv.org/abs/2305.17094}
+}
+
+@misc{scikit2026gb_regularization,
+  author       = {{scikit‑learn developers}},
+  title        = {Gradient Boosting Regularization Example},
+  year         = {2026},
+  howpublished = {\url{https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_regularization.html}},
+  note         = {scikit‑learn documentation}
+}
+
+@misc{scikit2026gbc,
+  author       = {{scikit‑learn developers}},
+  title        = {Gradient Boosting Classifier},
+  year         = {2026},
+  howpublished = {\url{https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html}},
+  note         = {scikit‑learn documentation}
+}
+
+@inproceedings{andersson2025laplace,
+  author    = {Andersson, Joel Daniel and Pagh, Rasmus and Steiner, Teresa Anna and Torkamani, Sahel},
+  title     = {Count on Your Elders: Laplace vs Gaussian Noise},
+  booktitle = {6th Symposium on Foundations of Responsible Computing (FORC 2025)},
+  series    = {Leibniz International Proceedings in Informatics (LIPIcs)},
+  volume    = {329},
+  year      = {2025},
+  pages     = {10:1--10:24},
+  publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
+  doi       = {10.4230/LIPIcs.FORC.2025.10}
+}
+
+@article{ratnavale2022sliding,
+  author  = {Ratnavale, S. and Hepp, C. and Doerry, E. and Mihaljevic, J. R.},
+  title   = {A Sliding Window Approach to Optimize the Time-Varying Parameters of a Spatially-Explicit and Stochastic Model of COVID-19},
+  journal = {PLOS Global Public Health},
+  year    = {2022},
+  month   = {September},
+  volume  = {2},
+  number  = {9},
+  pages   = {e0001058},
+  doi     = {10.1371/journal.pgph.0001058},
+  pmid    = {36962667},
+  pmcid   = {PMC10021528}
+}
+
+@article{eze2023anomaly,
+  author  = {Eze, P. U. and Geard, N. and Mueller, I. and Chades, I.},
+  title   = {Anomaly Detection in Endemic Disease Surveillance Data Using Machine Learning Techniques},
+  journal = {Healthcare},
+  year    = {2023},
+  month   = {June},
+  volume  = {11},
+  number  = {13},
+  pages   = {1896},
+  doi     = {10.3390/healthcare11131896},
+  pmid    = {37444730},
+  pmcid   = {PMC10341307}
+}
+
+@article{zhu2022postprocessing,
+  author  = {Zhu, Keyu and Fioretto, Ferdinando and Van Hentenryck, Pascal},
+  title   = {Post-processing of Differentially Private Data: A Fairness Perspective},
+  journal = {arXiv preprint arXiv:2201.09425},
+  year    = {2022},
+  url     = {https://arxiv.org/abs/2201.09425}
+}
+
+@article{liu2017mlbench,
+  author  = {Liu, Yu and Zhang, Hantian and Zeng, Luyuan and Wu, Wentao and Zhang, Ce},
+  title   = {MLBench: How Good Are Machine Learning Clouds for Binary Classification Tasks on Structured Data?},
+  journal = {arXiv preprint arXiv:1707.09562},
+  year    = {2017},
+  url     = {https://arxiv.org/abs/1707.09562}
+}
+
+@article{hua2005optimal,
+  author  = {Hua, Jianping and Xiong, Zixiang and Lowey, James and Suh, Edward and Dougherty, Edward R.},
+  title   = {Optimal Number of Features as a Function of Sample Size for Various Classification Rules},
+  journal = {Bioinformatics},
+  year    = {2005},
+  volume  = {21},
+  number  = {8},
+  pages   = {1509--1515},
+  doi     = {10.1093/bioinformatics/bti171}
+}
+
+@inproceedings{lipton2014optimal,
+  author    = {Lipton, Zachary C. and Elkan, Charles and Naryanaswamy, Balakrishnan},
+  title     = {Optimal Thresholding of Classifiers to Maximize F1 Measure},
+  booktitle = {Machine Learning and Knowledge Discovery in Databases (ECML PKDD)},
+  year      = {2014},
+  volume    = {8725},
+  pages     = {225--239},
+  publisher = {Springer},
+  doi       = {10.1007/978-3-662-44851-9_15},
+  pmid      = {26023687},
+  pmcid     = {PMC4442797}
+}
+
+@article{baliswain2024covidwaves,
+  author  = {Bali Swain, Ranjula and Lin, Xiang and Wallentin, Fan Yang},
+  title   = {COVID-19 Pandemic Waves: Identification and Interpretation of Global Data},
+  journal = {Heliyon},
+  year    = {2024},
+  volume  = {10},
+  number  = {3},
+  pages   = {e25090},
+  doi     = {10.1016/j.heliyon.2024.e25090},
+  url     = {https://www.sciencedirect.com/science/article/pii/S2405844024011216}
+}
+
+@article{zou2007roc,
+  author  = {Zou, Kelly H. and O'Malley, A. James and Mauri, Laura},
+  title   = {Receiver-Operating Characteristic Analysis for Evaluating Diagnostic Tests and Predictive Models},
+  journal = {Circulation},
+  year    = {2007},
+  volume  = {115},
+  number  = {5},
+  pages   = {654--657},
+  doi     = {10.1161/CIRCULATIONAHA.105.594929},
+  url     = {https://www.ahajournals.org/doi/abs/10.1161/CIRCULATIONAHA.105.594929}
+}
+
+@article{hajian2013roc,
+  author  = {Hajian-Tilaki, K.},
+  title   = {Receiver Operating Characteristic (ROC) Curve Analysis for Medical Diagnostic Test Evaluation},
+  journal = {Caspian Journal of Internal Medicine},
+  year    = {2013},
+  volume  = {4},
+  number  = {2},
+  pages   = {627--635},
+  pmid    = {24009950},
+  pmcid   = {PMC3755824}
+}
+
+@article{perkins2006optimalcutpoints,
+  author  = {Perkins, Neil J. and Schisterman, Enrique F.},
+  title   = {The Inconsistency of ``Optimal'' Cutpoints Obtained Using Two Criteria Based on the Receiver Operating Characteristic Curve},
+  journal = {American Journal of Epidemiology},
+  year    = {2006},
+  volume  = {163},
+  number  = {7},
+  pages   = {670--675},
+  doi     = {10.1093/aje/kwj063},
+  pmid    = {16410346},
+  pmcid   = {PMC1444894}
+}
+
+@article{orozcoarias2020mlmetrics,
+  author  = {Orozco-Arias, Simon and Piña, Johan S. and Tabares-Soto, Reinel and Castillo-Ossa, Luis F. and Guyot, Romain and Isaza, Gustavo},
+  title   = {Measuring Performance Metrics of Machine Learning Algorithms for Detecting and Classifying Transposable Elements},
+  journal = {Processes},
+  year    = {2020},
+  volume  = {8},
+  number  = {6},
+  pages   = {638},
+  doi     = {10.3390/pr8060638},
+  url     = {https://www.mdpi.com/2227-9717/8/6/638}
+}
+
+@article{bashir2020informationtheoretic,
+  author  = {Bashir, Daniel and Montanez, George D. and Sehra, Sonia and Sandoval Segura, Pedro and Lauw, Julius},
+  title   = {An Information-Theoretic Perspective on Overfitting and Underfitting},
+  journal = {arXiv preprint arXiv:2010.06076},
+  year    = {2020},
+  url     = {https://arxiv.org/abs/2010.06076}
+}
